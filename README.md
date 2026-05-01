@@ -17,8 +17,8 @@ The repository is organized as Jupyter Notebooks, containing:
 ## Requirements
 
 To run this project, you'll need:
-- Python 3.7+
-- TensorFlow/Keras
+- Python 3.10+
+- Pytorch with Cuda >v12.8
 - NumPy
 - Pandas
 - Matplotlib
