@@ -2,9 +2,14 @@
 
 A deep learning project for detecting brain tumors using Convolutional Neural Networks (CNN).
 
+A brain tumor is an abnormal mass of cells within or around the brain, categorized as primary (starting in the brain) or secondary (spreading from elsewhere). They can be benign (noncancerous) or malignant (cancerous), with over 100 different types impacting the central nervous system. Common symptoms include new headaches, seizures, and personality changes. > https://my.clevelandclinic.org/health/diseases/6149-brain-cancer-brain-tumor.
+
 ## Overview
 
 This repository contains implementations for classifying and detecting brain tumors from medical imaging data using CNN architectures. The project demonstrates the application of deep learning techniques to medical image analysis.
+
+In this notebook, we'll maximize the use of kaggle notebook along with help of powerful GPU offered inside the cloud platform.
+This project is beneficial for inital diagnosis for brain tumor detection - binary classification (Tumor / No Tumor)
 
 ## Project Structure
 
@@ -13,6 +18,7 @@ The repository is organized as Jupyter Notebooks, containing:
 - Model architecture definitions
 - Training and evaluation pipelines
 - Visualization of results
+- Computing of metrics and results
 
 ## Requirements
 
